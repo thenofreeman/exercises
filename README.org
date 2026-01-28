@@ -1,0 +1,81 @@
+#+title: Exercises
+
+* Contents :toc:
+- [[#online-problem-sets][Online Problem Sets]]
+  - [[#ocamlorg][OCaml.org]]
+  - [[#leet-code-python][Leet Code (Python)]]
+  - [[#project-euler-python][Project Euler (Python)]]
+  - [[#rosetta-code-python][Rosetta Code (Python)]]
+  - [[#p-99-ninety-nine-prolog-problems][P-99: Ninety-Nine Prolog Problems]]
+  - [[#l-99-ninety-nine-lisp-problems][L-99: Ninety-Nine Lisp Problems]]
+- [[#textbook-problems][Textbook Problems]]
+- [[#implementations][Implementations]]
+- [[#lost-projects][Lost Projects]]
+- [[#tinkerings][Tinkerings]]
+
+* Online Problem Sets
+
+** OCaml.org :ocaml:
+
+Source: https://ocaml.org/exercises
+
+1. [[file:code/ocaml-org/0001.ml][Tail of a List]]
+   <2026-01-26 Mon>
+2. [[file:code/ocaml-org/0002.ml][Last Two Elements of a List]]
+   <2026-01-26 Mon>
+3. [[file:code/ocaml-org/0003.ml][N'th Element of a List]]
+   <2026-01-26 Mon>
+4. [[file:code/ocaml-org/0004.ml][Length of a List]] ([[file:code/ocaml-org/0004-bonus.ml][bonus]])
+   <2026-01-26 Mon>
+5. [[file:code/ocaml-org/0005.ml][Reverse a List]]
+   <2026-01-26 Mon>
+6. [[file:code/ocaml-org/0006.ml][Palindrome]]
+   <2026-01-26 Mon>
+7. Flatten a List
+8. Eliminate Duplicates
+9. Pack Consecutive Duplicates
+10. [[file:code/ocaml-org/0010.ml][Run-Length Encoding]]
+    <2026-01-27 Tue>
+11. Modified Run-Length Encoding
+
+** Leet Code (Python) :python:
+
+Source https://leetcode.com/problemset/
+
+Coming soon.
+
+** Project Euler (Python) :python:
+
+Coming soon.
+
+** Rosetta Code (Python) :python:
+
+Coming soon.
+
+** P-99: Ninety-Nine Prolog Problems :prolog:
+
+Source: https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
+
+Coming soon.
+
+** L-99: Ninety-Nine Lisp Problems :lisp:
+
+https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html
+
+Coming soon.
+
+* Textbook Problems
+
+Coming soon.
+
+* Implementations
+
+Coming soon.
+
+* Lost Projects
+
+Coming soon.
+
+* Tinkerings
+
+Coming soon.
