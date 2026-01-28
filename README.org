@@ -15,16 +15,15 @@ Solutions could be as recent as yesterday or as old as half a decade. As such, t
   - [[#rosetta-code-python][Rosetta Code (Python)]]
   - [[#p-99-ninety-nine-prolog-problems][P-99: Ninety-Nine Prolog Problems]]
   - [[#l-99-ninety-nine-lisp-problems][L-99: Ninety-Nine Lisp Problems]]
-- [[#textbook-problems][Textbook Problems]]
-- [[#course-problems][Course Problems]]
-  - [[#freecodecamp-responsive-web-design][FreeCodeCamp: Responsive Web Design]]
-  - [[#acc-cosc-1337][ACC COSC 1337]]
-  - [[#acc-cosc-2436][ACC COSC 2436]]
-  - [[#acc-cosc-2325][ACC COSC 2325]]
-- [[#implementations][Implementations]]
-- [[#archived-projects][Archived Projects]]
-- [[#abandoned-projects][Abandoned Projects]]
+- [[#educational-problems][Educational Problems]]
+  - [[#textbooks][Textbooks]]
+  - [[#course][Course]]
+- [[#projects][Projects]]
+  - [[#archived-projects][Archived Projects]]
+  - [[#abandoned-projects][Abandoned Projects]]
 - [[#tinkerings][Tinkerings]]
+  - [[#data-structures-and-algorithms][Data Structures and Algorithms]]
+  - [[#playing-around][Playing Around]]
 
 * Online Problem Sets
 
@@ -70,13 +69,15 @@ https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nin
 
 Coming soon.
 
-* Textbook Problems
+* Educational Problems
+
+** Textbooks
 
 Coming soon.
 
-* Course Problems
+** Course
 
-** FreeCodeCamp: Responsive Web Design
+*** FreeCodeCamp: Responsive Web Design
 
 1. Tribute Page
 2. Web Design Survey Form Page
@@ -84,52 +85,56 @@ Coming soon.
 4. Technical Docs Page
 5. Personal Portfolio Page
 
-** ACC COSC 1337
+*** ACC COSC 1337
 
 Coming soon.
 
-** ACC COSC 2436
+*** ACC COSC 2436
 
 1. Lab 1 - Array Bag
 2. Lab 2 - Stacks and Lists
 3. Lab 3 - Linked Lists
 4. Lab 4 - Binary Trees
 
-** ACC COSC 2325
+*** ACC COSC 2325
 
 1. Lab 1 - Fade without Delay
 2. Lab 2 - Toggle Button
 3. Lab 3 - Cycle Lights
 
-* Implementations
+* Projects
 
-Coming soon.
+** Archived Projects
 
-* Archived Projects
+- Base64 Encoder (zig)
+- Grayscale Image Filter (zig)
+- Simple HTTP Server (zig)
+- Space Invaders Game (java)
+- Pong Game (zig)
+- Brick Breaker Game (zig)
+- Pong Game (lua)
+- Encryption CLI (python)
+- Discord Bot (js)
+- URL Shortener Service (js/html/css)
 
-Base64 Encoder (zig)
-Grayscale Image Filter (zig)
-Simple HTTP Server (zig)
-Space Invaders Game (java)
-Pong Game (zig)
-Brick Breaker Game (zig)
-Pong Game (lua)
-Encryption CLI (python)
-Discord Bot (js)
-URL Shortener Service (js/html/css)
+** Abandoned Projects
 
-* Abandoned Projects
-
-Top-Down Driving Game (python)
-EduGrabber Chrome Extension (js/html/css)
-Physics Equation Finder Tool (react/js)
+- Top-Down Driving Game (python)
+- EduGrabber Chrome Extension (js/html/css)
+- Physics Equation Finder Tool (react/js)
 
 * Tinkerings
 
-Browser Navigation Concept (java)
-ADT Benchmarks (java)
-Sort Benchmarks (java)
-Graphing Calculator (cpp)
-User Database Manager (cpp)
-Constraint Satisfaction Solver (python)
-Communication App Sidebar (svelte/ts)
+** Data Structures and Algorithms
+
+Coming soon.
+
+** Playing Around
+
+- Browser Navigation Concept (java)
+- ADT Benchmarks (java)
+- Sort Benchmarks (java)
+- Graphing Calculator (cpp)
+- User Database Manager (cpp)
+- Constraint Satisfaction Solver (python)
+- Communication App Sidebar (svelte/ts)
