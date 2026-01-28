@@ -4,7 +4,7 @@
 
 This repo contains a collection of exercises, problems, mini-projects and general tinkerings.
 
-Solutions could be as recent as yesterday or as old as years. As such, they may be outdated, and likely wrong and unlikely to be updated. They are each meant to serve as a learning exercise, not to boast any programming prowess or as a solution bank.
+Solutions could be as recent as yesterday or as old as half a decade. As such, they may be outdated, and likely wrong and unlikely to be updated. They are each meant to serve as a learning exercise, not to boast any programming prowess or as a solution bank.
 
 * Contents :toc:
 - [[#info][Info]]
@@ -16,13 +16,19 @@ Solutions could be as recent as yesterday or as old as years. As such, they may 
   - [[#p-99-ninety-nine-prolog-problems][P-99: Ninety-Nine Prolog Problems]]
   - [[#l-99-ninety-nine-lisp-problems][L-99: Ninety-Nine Lisp Problems]]
 - [[#textbook-problems][Textbook Problems]]
+- [[#course-problems][Course Problems]]
+  - [[#freecodecamp-responsive-web-design][FreeCodeCamp: Responsive Web Design]]
+  - [[#acc-cosc-1337][ACC COSC 1337]]
+  - [[#acc-cosc-2436][ACC COSC 2436]]
+  - [[#acc-cosc-2325][ACC COSC 2325]]
 - [[#implementations][Implementations]]
-- [[#lost-projects][Lost Projects]]
+- [[#archived-projects][Archived Projects]]
+- [[#abandoned-projects][Abandoned Projects]]
 - [[#tinkerings][Tinkerings]]
 
 * Online Problem Sets
 
-** OCaml.org :ocaml:
+** OCaml.org
 
 Source: https://ocaml.org/exercises
 
@@ -36,29 +42,29 @@ Source: https://ocaml.org/exercises
 8. Eliminate Duplicates
 9. Pack Consecutive Duplicates
 10. [[file:code/ocaml-org/0010.ml][Run-Length Encoding]]
-11. Modified Run-Length Encoding
+11. [[file:code/ocaml-org/0011.ml][Modified Run-Length Encoding]]
 
-** Leet Code (Python) :python:
+** Leet Code (Python)
 
 Source https://leetcode.com/problemset/
 
 Coming soon.
 
-** Project Euler (Python) :python:
+** Project Euler (Python)
 
 Coming soon.
 
-** Rosetta Code (Python) :python:
+** Rosetta Code (Python)
 
 Coming soon.
 
-** P-99: Ninety-Nine Prolog Problems :prolog:
+** P-99: Ninety-Nine Prolog Problems
 
 Source: https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
 
 Coming soon.
 
-** L-99: Ninety-Nine Lisp Problems :lisp:
+** L-99: Ninety-Nine Lisp Problems
 
 https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html
 
@@ -68,14 +74,62 @@ Coming soon.
 
 Coming soon.
 
+* Course Problems
+
+** FreeCodeCamp: Responsive Web Design
+
+1. Tribute Page
+2. Web Design Survey Form Page
+3. Design Product Page
+4. Technical Docs Page
+5. Personal Portfolio Page
+
+** ACC COSC 1337
+
+Coming soon.
+
+** ACC COSC 2436
+
+1. Lab 1 - Array Bag
+2. Lab 2 - Stacks and Lists
+3. Lab 3 - Linked Lists
+4. Lab 4 - Binary Trees
+
+** ACC COSC 2325
+
+1. Lab 1 - Fade without Delay
+2. Lab 2 - Toggle Button
+3. Lab 3 - Cycle Lights
+
 * Implementations
 
 Coming soon.
 
-* Lost Projects
+* Archived Projects
 
-Coming soon.
+Base64 Encoder (zig)
+Grayscale Image Filter (zig)
+Simple HTTP Server (zig)
+Space Invaders Game (java)
+Pong Game (zig)
+Brick Breaker Game (zig)
+Pong Game (lua)
+Encryption CLI (python)
+Discord Bot (js)
+URL Shortener Service (js/html/css)
+
+* Abandoned Projects
+
+Top-Down Driving Game (python)
+EduGrabber Chrome Extension (js/html/css)
+Physics Equation Finder Tool (react/js)
 
 * Tinkerings
 
-Coming soon.
+Browser Navigation Concept (java)
+ADT Benchmarks (java)
+Sort Benchmarks (java)
+Graphing Calculator (cpp)
+User Database Manager (cpp)
+Constraint Satisfaction Solver (python)
+Communication App Sidebar (svelte/ts)
