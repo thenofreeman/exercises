@@ -4,7 +4,7 @@
 
 This repo contains a collection of exercises, problems, mini-projects and general tinkerings.
 
-Solutions could be as recent as yesterday or as old as half a decade. As such, they may be outdated, and likely wrong and unlikely to be updated. They are each meant to serve as a learning exercise, not to boast any programming prowess or as a solution bank.
+Solutions could be as recent as yesterday or as old as half a decade. As such, they may be outdated, and likely wrong and unlikely to be updated. They are each meant to serve as a learning exercise for myself and an indicator of progress, not to boast any programming prowess or as a solution bank.
 
 * Contents :toc:
 - [[#info][Info]]
