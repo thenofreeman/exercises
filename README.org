@@ -17,7 +17,7 @@ Solutions could be as recent as yesterday or as old as half a decade. As such, t
   - [[#l-99-ninety-nine-lisp-problems][L-99: Ninety-Nine Lisp Problems]]
 - [[#educational-problems][Educational Problems]]
   - [[#textbooks][Textbooks]]
-  - [[#course][Course]]
+  - [[#courses][Courses]]
 - [[#projects][Projects]]
   - [[#archived-projects][Archived Projects]]
   - [[#abandoned-projects][Abandoned Projects]]
@@ -75,7 +75,7 @@ Coming soon.
 
 Coming soon.
 
-** Course
+** Courses
 
 *** FreeCodeCamp: Responsive Web Design
 
@@ -85,7 +85,7 @@ Coming soon.
 4. Technical Docs Page
 5. Personal Portfolio Page
 
-*** ACC COSC 1337
+*** Programming Fundamentals I in C++
 
 1. [[file:code/acc-cosc-1337/lab-1.cpp][Lab 1 - Sale Price]]
 2. [[file:code/acc-cosc-1337/lab-2.cpp][Lab 2 - Height from Inches]]
@@ -101,14 +101,14 @@ Coming soon.
 12. [[file:code/acc-cosc-1337/lab-12.cpp][Lab 12 - Every Case]]
 13. [[file:code/acc-cosc-1337/lab-13.cpp][Lab 13 - Encryption]]
 
-*** ACC COSC 2436
+*** Programming Fundamentals II in C++
 
 1. [[file:code/acc-cosc-2436/lab-1/][Lab 1 - Array Bag]]
 2. [[file:code/acc-cosc-2436/lab-2/][Lab 2 - Stacks and Lists]]
 3. [[file:code/acc-cosc-2436/lab-3/][Lab 3 - Linked Lists]]
 4. [[file:code/acc-cosc-2436/lab-4/][Lab 4 - Binary Trees]]
 
-*** ACC COSC 2325
+*** Computer Organization
 
 1. [[file:code/acc-cosc-2325/lab-1-fade-without-delay.cpp][Lab 1 - Fade without Delay]]
 2. [[file:code/acc-cosc-2325/lab-2-toggle-button.cpp][Lab 2 - Toggle Button]]
