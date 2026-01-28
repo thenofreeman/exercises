@@ -38,7 +38,7 @@ Source: https://ocaml.org/exercises
 5. [[file:code/ocaml-org/0005.ml][Reverse a List]]
 6. [[file:code/ocaml-org/0006.ml][Palindrome]]
 7. Flatten a List
-8. Eliminate Duplicates
+8. [[file:code/ocaml-org/0008.ml][Eliminate Duplicates]]
 9. Pack Consecutive Duplicates
 10. [[file:code/ocaml-org/0010.ml][Run-Length Encoding]]
 11. [[file:code/ocaml-org/0011.ml][Modified Run-Length Encoding]]
