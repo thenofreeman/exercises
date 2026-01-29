@@ -50,9 +50,9 @@ Source: https://ocaml.org/exercises
 17. [[file:code/ocaml-org/0017.ml][Split a List Into Two Parts]]
 18. Extract a Slice from a List
 19. Rotate a List N Place to the Left
-20. Remove the K'th Element From a List
-21. Insert an Element at a Given Position Into a List
-22. Creating a List Containing All Integers Within a Given Range
+20. [[file:code/ocaml-org/0020.ml][Remove the K'th Element From a List]]
+21. [[file:code/ocaml-org/0021.ml][Insert an Element at a Given Position Into a List]]
+22. !!TODO!! [[file:code/ocaml-org/0022.ml][Creating a List Containing All Integers Within a Given Range]]
 
 ** Leet Code (Python)
 
@@ -90,11 +90,11 @@ Coming soon.
 
 *** FreeCodeCamp: Responsive Web Design
 
-1. Tribute Page
-2. Web Design Survey Form Page
-3. Design Product Page
-4. Technical Docs Page
-5. Personal Portfolio Page
+1. [[file:code/fcc-responsive-web-design/01-tribute-page/][Tribute Page]]
+2. [[file:code/fcc-responsive-web-design/02-web-design-survey-form-page/][Web Design Survey Form Page]]
+3. [[file:code/fcc-responsive-web-design/03-design-product-page/][Design Product Page]]
+4. [[file:code/fcc-responsive-web-design/04-technical-docs-page/][Technical Docs Page]]
+5. [[file:code/fcc-responsive-web-design/05-personal-portfolio-page/][Personal Portfolio Page]]
 
 *** Programming Fundamentals I in C++
 
@@ -129,22 +129,23 @@ Coming soon.
 
 ** Archived Projects
 
-- Base64 Encoder (zig)
-- Grayscale Image Filter (zig)
-- Simple HTTP Server (zig)
-- Space Invaders Game (java)
+- [[file:code/base64-encoder-zig/][Base64 Encoder (zig)]]
+- [[file:code/grayscale-image-filter-zig/][Grayscale Image Filter (zig)]]
+- [[file:code/http-server-zig/][Simple HTTP Server (zig)]]
+- [[file:code/space-invaders-game/][Space Invaders Game (java)]]
 - Pong Game (zig)
 - Brick Breaker Game (zig)
 - Pong Game (lua)
 - Encryption CLI (python)
-- Discord Bot (js)
-- URL Shortener Service (js/html/css)
+- [[file:code/discord-bot-js/][Discord Bot (js)]]
+- [[file:code/url-shortener-js/][URL Shortener Service (js/html/css)]]
+- [[file:code/pysnake-game/][PySnake Game (python)]]
 
 ** Abandoned Projects
 
 - Top-Down Driving Game (python)
-- EduGrabber Chrome Extension (js/html/css)
-- Physics Equation Finder Tool (react/js)
+- [[file:code/edugrabber-chrome-ext/][EduGrabber Chrome Extension (js/html/css)]]
+- [[file:code/physics-eqn-tool-react/][Physics Equation Finder Tool (react/js)]]
 
 * Tinkerings
 
@@ -154,10 +155,10 @@ Coming soon.
 
 ** Playing Around
 
-- Browser Navigation Concept (java)
-- ADT Benchmarks (java)
-- Sort Benchmarks (java)
-- Graphing Calculator (cpp)
-- User Database Manager (cpp)
-- Constraint Satisfaction Solver (python)
-- Communication App Sidebar (svelte/ts)
+- [[file:code/browser-navigation-concept-java/][Browser Navigation Concept (java)]]
+- [[file:code/adt-benchmarks-java/][ADT Benchmarks (java)]]
+- [[file:code/sort-benchmarks-java/][Sort Benchmarks (java)]]
+- [[file:code/graphing-tool-cpp/][Graphing Tool (cpp)]]
+- [[file:code/user-database-manager-cpp/][User Database Manager (cpp)]]
+- [[file:code/constraint-satisfaction-solver-python/][Constraint Satisfaction Solver (python)]]
+- [[file:code/communication-app-sidebar-svelte/][Communication App Sidebar (svelte/ts)]]
