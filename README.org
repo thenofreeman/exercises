@@ -19,6 +19,7 @@ Solutions could be as recent as yesterday or as old as half a decade. As such, t
   - [[#textbooks][Textbooks]]
   - [[#courses][Courses]]
 - [[#projects][Projects]]
+  - [[#soon-to-be-archived-projects][Soon-to-be Archived Projects]]
   - [[#archived-projects][Archived Projects]]
   - [[#abandoned-projects][Abandoned Projects]]
 - [[#tinkerings][Tinkerings]]
@@ -125,7 +126,22 @@ Coming soon.
 2. [[file:code/acc-cosc-2325/lab-2-toggle-button.cpp][Lab 2 - Toggle Button]]
 3. [[file:code/acc-cosc-2325/lab-3-cycle-lights.cpp][Lab 3 - Cycle Lights]]
 
+*** Operating Systems
+
+1. [[file:code/os-p1/][Project 1: IPC Encryption CLI]]
+2. [[file:code/os-p2/][Project 2: Async Bank Simulation]]
+3. [[file:code/os-p3/][Project 3: Index File Implementation]]
+
 * Projects
+
+** Soon-to-be Archived Projects
+
+Currently open repositories on my GitHub.
+
+- Library Management System
+- Pong Game (zig)
+- Brick Breaker Game (zig)
+- Pong Game (lua)
 
 ** Archived Projects
 
@@ -133,17 +149,13 @@ Coming soon.
 - [[file:code/grayscale-image-filter-zig/][Grayscale Image Filter (zig)]]
 - [[file:code/http-server-zig/][Simple HTTP Server (zig)]]
 - [[file:code/space-invaders-game/][Space Invaders Game (java)]]
-- Pong Game (zig)
-- Brick Breaker Game (zig)
-- Pong Game (lua)
-- Encryption CLI (python)
 - [[file:code/discord-bot-js/][Discord Bot (js)]]
 - [[file:code/url-shortener-js/][URL Shortener Service (js/html/css)]]
 - [[file:code/pysnake-game/][PySnake Game (python)]]
 
 ** Abandoned Projects
 
-- Top-Down Driving Game (python)
+- [[file:code/topdown-driving-game-python/][Top-Down Driving Game (python)]]
 - [[file:code/edugrabber-chrome-ext/][EduGrabber Chrome Extension (js/html/css)]]
 - [[file:code/physics-eqn-tool-react/][Physics Equation Finder Tool (react/js)]]
 

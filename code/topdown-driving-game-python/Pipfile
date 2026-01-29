@@ -1,0 +1,16 @@
+[[source]]
+url = "https://github.com/sophicalorg/autodrive"
+verify_ssl = true
+name = "AutoDrive"
+
+[packages]
+pygame = "*"
+
+[dev-packages]
+flake8 = "*"
+mypy = "*"
+pycodestyle = "*"
+pytest = "*"
+
+[requires]
+python_version = "3.13"
